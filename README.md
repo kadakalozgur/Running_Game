@@ -78,7 +78,10 @@ Unity ile Özgür Kadakal tarafından geliştirilmiş, rastgele engeller ve çe�
      Yüklendikten sonra oyun kullanıma hazırdır.
 
 📸 **Screenshot:**  
-![OpenSampleScene](game/ScreenShots/open_samplescene.png)
+
+![OpenSampleScene](RunningGame/ScreenShots/4.png)
+
+![OpenSampleScene](RunningGame/ScreenShots/5.png)
 
 ---
 
