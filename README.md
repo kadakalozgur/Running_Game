@@ -14,10 +14,10 @@
 ![InGame1](RunningGame/ScreenShots/1.png)
 
 ### 🎮 In-Game Screenshot 2
-![InGame2](RunningGame/ScreenShots/ingame3.png)
+![InGame2](RunningGame/ScreenShots/3.png)
 
 ### 🎮 In-Game Screenshot 3
-![InGame3](RunningGame/ScreenShots/ingame2.png)
+![InGame3](RunningGame/ScreenShots/2.png)
 
 ---
 
