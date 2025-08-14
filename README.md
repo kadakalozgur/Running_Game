@@ -11,13 +11,13 @@
 ## 🖼️ Gameplay Previews
 
 ### 🎮 In-Game Screenshot 1
-![InGame1](game/ScreenShots/1.png)
+![InGame1](RunningGame/ScreenShots/1.png)
 
 ### 🎮 In-Game Screenshot 2
-![InGame2](game/ScreenShots/ingame3.png)
+![InGame2](RunningGame/ScreenShots/ingame3.png)
 
 ### 🎮 In-Game Screenshot 3
-![InGame3](game/ScreenShots/ingame2.png)
+![InGame3](RunningGame/ScreenShots/ingame2.png)
 
 ---
 
