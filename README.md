@@ -63,6 +63,8 @@ For any feedback, questions, or suggestions, contact me:
 
 ---
 
+## 🇹🇷 Türkçe
+
 # 🏃‍♂️ Sonsuz Koşu Oyunu 🎮
 
 ### - Geliştirici: Özgür Kadakal
