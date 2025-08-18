@@ -2,9 +2,7 @@
 
 ### - Developed by Özgür Kadakal
 
-**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.  
-
-**⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.  
+**⚠️ Important:** Please extract the `.zip` file before opening the project. Otherwise, it may not work properly.
 
 ---
 
@@ -24,72 +22,106 @@
 ## 🌍 English
 
 ### 🏃 Endless Runner Game
-An endless running game developed in Unity by Özgür Kadakal, featuring random obstacle generation, animations, and immersive sound effects.
+An endless running game developed in Unity by **Özgür Kadakal**, featuring random obstacle generation, smooth animations, and immersive sound effects.
 
 ### ✨ Features
-- 🎯 Endless running player character
-- ⚠️ Randomly generated obstacles for each run
-- 💥 Collision animations and sound effects
-- 🎵 Action-packed background music during gameplay
-- 🖱 Game Over screen with "Try Again" button
-- 🏃 Character jump, run, and fall animations
+- 🎯 Endless running player character  
+- ⚠️ Randomly generated obstacles for each run  
+- 💥 Collision animations and sound effects  
+- 🎵 Action-packed background music  
+- 🖱 Game Over screen with "Try Again" button  
+- 🏃 Character jump, run, and fall animations  
 - 🎮 3D character model and smooth controls
+
+---
+
+## 🛠 Unity Version
+
+- **2022.3.62f1**  
+> This project was developed and tested with **Unity 2022.3.62f1**.
+
+---
+
+## ⚠️ Important Notice
+
+1. First-time loading through Unity Hub may take long. This is normal as Unity rebuilds the Library folder.  
+2. On first launch, the Hierarchy may appear empty.  
+   Open **`Assets/Scenes/SampleScene`** to load the game objects.
+
+📸 **Screenshots:**  
+
+![OpenSampleScene](RunningGame/ScreenShots/4.png)  
+
+![OpenSampleScene](RunningGame/ScreenShots/5.png)
+
+---
+
+## 📬 Contact
+
+For any feedback, questions, or suggestions, contact me:  
+📧 ozgurkreach@gmail.com
+
+---
+
+# 🏃‍♂️ Sonsuz Koşu Oyunu 🎮
+
+### - Geliştirici: Özgür Kadakal
+
+**⚠️ Önemli:** `.zip` dosyasını açmadan önce ayıklayın, aksi halde proje düzgün çalışmayabilir.
+
+---
+
+## 🖼️ Oynanış Önizlemeleri
+
+### 🎮 Oyun İçi Görüntü 1
+![InGame1](RunningGame/ScreenShots/1.png)
+
+### 🎮 Oyun İçi Görüntü 2
+![InGame2](RunningGame/ScreenShots/3.png)
+
+### 🎮 Oyun İçi Görüntü 3
+![InGame3](RunningGame/ScreenShots/2.png)
 
 ---
 
 ## 🇹🇷 Türkçe
 
 ### 🏃 Sonsuz Koşu Oyunu
-Unity ile Özgür Kadakal tarafından geliştirilmiş, rastgele engeller ve çeşitli animasyonlar içeren eğlenceli bir sonsuz koşu oyunu.
+Unity ile **Özgür Kadakal** tarafından geliştirilmiş, rastgele engeller, akıcı animasyonlar ve etkileyici ses efektleri içeren bir sonsuz koşu oyunu.
 
 ### ✨ Özellikler
-- 🎯 Sonsuz koşan karakter
-- ⚠️ Her oynayışta rastgele oluşan engeller
-- 💥 Çarpışma animasyonları ve sesleri
-- 🎵 Oyun sırasında aksiyon müziği
-- 🖱 Game Over ekranı ve "Try Again" butonu
-- 🏃 Karakterin zıplama, koşma, düşme animasyonları
+- 🎯 Sonsuz koşan karakter  
+- ⚠️ Her oynayışta rastgele oluşan engeller  
+- 💥 Çarpışma animasyonları ve ses efektleri  
+- 🎵 Aksiyon dolu arka plan müziği  
+- 🖱 Game Over ekranı ve "Try Again" butonu  
+- 🏃 Karakterin zıplama, koşma ve düşme animasyonları  
 - 🎮 3D karakter modeli ve akıcı kontroller
 
 ---
 
-## 🛠 Unity Version | Unity Sürümü
+## 🛠 Unity Sürümü
 
 - **2022.3.62f1**  
-> This project was developed and tested with **Unity 2022.3.62f1**.
-
-> Proje, **Unity 2022.3.62f1** sürümü ile geliştirilmiş ve test edilmiştir. Aynı veya uyumlu bir sürümle açmanız tavsiye edilir.
+> Proje **Unity 2022.3.62f1** sürümü ile geliştirilmiş ve test edilmiştir.
 
 ---
 
-## ⚠️ Important Notice | Önemli Uyarı
+## ⚠️ Önemli Uyarı
 
-- **English:**  
-  1. When opening the project through Unity Hub for the first time, loading may take a long time. This is normal as Unity will rebuild the Library folder.  
-  2. On the first project launch, you will see an **empty scene** (no objects in the Hierarchy).  
-     To load the game objects, go to the **`Assets/Scenes/`** folder and double-click on **`SampleScene`**.  
-     Alternatively, you can open **SampleScene** directly from Unity Hub by double-clicking it in the **Project window** once the project has loaded.  
-     Once loaded, the game will be ready to use.
+1. Unity Hub ile ilk yükleme uzun sürebilir. Bu normaldir çünkü Unity Library klasörünü yeniden oluşturur.  
+2. İlk açılışta Hierarchy boş görünebilir.  
+   Oyun objelerini yüklemek için **`Assets/Scenes/SampleScene`** dosyasını açın.
 
-- **Türkçe:**  
-  1. Projeyi Unity Hub üzerinden ilk kez açarken yüklenme süresi uzun olabilir. Bu normaldir çünkü Unity, Library klasörünü yeniden oluşturacaktır.  
-  2. Proje ilk açıldığında **Hierarchy tamamen boş** görünecektir (hiç obje olmayacaktır).  
-     Oyun objelerini yüklemek için **`Assets/Scenes/`** klasörüne gidip **`SampleScene`** dosyasına çift tıklayın.  
-     Alternatif olarak, proje yüklendikten sonra Unity Hub içerisindeki **Project penceresinden** de **SampleScene**’i çift tıklayarak açabilirsiniz.  
-     Yüklendikten sonra oyun kullanıma hazırdır.
+📸 **Ekran Görüntüleri:**  
 
-📸 **Screenshot:**  
-
-![OpenSampleScene](RunningGame/ScreenShots/4.png)
+![OpenSampleScene](RunningGame/ScreenShots/4.png)  
 
 ![OpenSampleScene](RunningGame/ScreenShots/5.png)
 
 ---
 
-## 📬 Contact | İletişim
-
-For any feedback, questions, or suggestions, feel free to contact me:  
-📧 ozgurkreach@gmail.com
+## 📬 İletişim
 
 Her türlü geri bildirim, soru veya öneri için:  
 📧 ozgurkreach@gmail.com
