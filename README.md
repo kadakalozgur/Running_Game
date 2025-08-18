@@ -86,8 +86,6 @@ For any feedback, questions, or suggestions, contact me:
 
 ---
 
-## 🇹🇷 Türkçe
-
 ### 🏃 Sonsuz Koşu Oyunu
 Unity ile **Özgür Kadakal** tarafından geliştirilmiş, rastgele engeller, akıcı animasyonlar ve etkileyici ses efektleri içeren bir sonsuz koşu oyunu.
 
