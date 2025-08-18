@@ -1,3 +1,5 @@
+## 🌍 English
+
 # 🏃‍♂️ Endless Runner Game 🎮
 
 ### - Developed by Özgür Kadakal
@@ -18,8 +20,6 @@
 ![InGame3](RunningGame/ScreenShots/2.png)
 
 ---
-
-## 🌍 English
 
 ### 🏃 Endless Runner Game
 An endless running game developed in Unity by **Özgür Kadakal**, featuring random obstacle generation, smooth animations, and immersive sound effects.
