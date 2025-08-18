@@ -56,7 +56,8 @@ Unity ile Özgür Kadakal tarafından geliştirilmiş, rastgele engeller ve çe�
 ## 🛠 Unity Version | Unity Sürümü
 
 - **2022.3.62f1**  
-> This project was developed and tested with **Unity 2022.3.62f1**.  
+> This project was developed and tested with **Unity 2022.3.62f1**.
+
 > Proje, **Unity 2022.3.62f1** sürümü ile geliştirilmiş ve test edilmiştir. Aynı veya uyumlu bir sürümle açmanız tavsiye edilir.
 
 ---
