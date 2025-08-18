@@ -33,6 +33,9 @@ An endless running game developed in Unity by **Özgür Kadakal**, featuring ran
 - 🏃 Character jump, run, and fall animations  
 - 🎮 3D character model and smooth controls
 
+🧑‍💻 *This project was developed from scratch by Özgür Kadakal.*  
+📌 *All code and assets are original.*
+
 ---
 
 ## 🛠 Unity Version
@@ -97,6 +100,9 @@ Unity ile **Özgür Kadakal** tarafından geliştirilmiş, rastgele engeller, ak
 - 🖱 Game Over ekranı ve "Try Again" butonu  
 - 🏃 Karakterin zıplama, koşma ve düşme animasyonları  
 - 🎮 3D karakter modeli ve akıcı kontroller
+
+🧑‍💻 *Bu proje Özgür Kadakal tarafından sıfırdan geliştirilmiştir.*  
+📌 *Tüm kodlar ve içerikler özgündür.*
 
 ---
 
