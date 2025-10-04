@@ -6,6 +6,8 @@
 
 **⚠️ Important:** Please extract the `.zip` file before opening the project. Otherwise, it may not work properly.
 
+**⚠️ Important:** Make sure the downloaded `.exe` file is named **`Running Game.exe`**.If you rename it, the game will **not run properly**.
+
 ---
 
 ## 🖼️ Gameplay Previews
@@ -73,6 +75,8 @@ For any feedback, questions, or suggestions, contact me:
 ### - Geliştirici: Özgür Kadakal
 
 **⚠️ Önemli:** `.zip` dosyasını açmadan önce ayıklayın, aksi halde proje düzgün çalışmayabilir.
+
+**⚠️ Önemli:** İndirilen `.exe` dosyasının adı **`Running Game.exe`** olmalıdır. Dosya adını değiştirirseniz, oyun **çalışmayacaktır**. 
 
 ---
 
