@@ -1,6 +1,6 @@
 ## 🌍 English
 
-# 🏃‍♂️ Endless Runner Gam 🎮
+# 🏃‍♂️ Endless Runner Game 🎮
 
 ### - Developed by Özgür Kadakal
 
